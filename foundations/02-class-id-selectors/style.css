@@ -1,0 +1,14 @@
+p {
+    background-color: rgb(240, 157, 157);
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+#thirdElement{
+    font-size: 24px;
+}
+
+#Green {
+    background-color: rgb(114, 240, 145);
+    font-size: 24px;
+    font-weight: bold;
+}
